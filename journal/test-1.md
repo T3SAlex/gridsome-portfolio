@@ -1,8 +1,8 @@
 ---
-date: 2019-05-17
-title: Yet another great journal entry
+date: 2019-07-20
+title: Avoid Tokyo & Kyoto for immersion
 author: Nichlas W. Andersen
-excerpt: Get up and running with a fresh macOS Mojave install
+excerpt: Don't be afraid to derive a bit on the path
 
 ---
 Testing...
