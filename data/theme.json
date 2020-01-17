@@ -1,8 +1,8 @@
 {
   "footer": "Copyright &copy; Alexandre Bernard 2019",
-  "dark_mode": true,
+  "dark_mode": false,
   "site_name": "Japan",
   "site_description": "A travel to Japan",
   "hero_title": "Beauty. Calm. Culture.",
-  "hero_subtitle": "Hi there, a little overview of my travel to Japan this summer."
+  "hero_subtitle": "Hi there, a little overview of my travel to Japan this summer.<br><br><em>All photo shoot with iPhone Xs Max / Stock camera </em><br><em>Edit in Adobe Lightroom</em>"
 }
