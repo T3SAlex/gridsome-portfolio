@@ -1,12 +1,14 @@
 ---
-thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
-title: Pineapple
+thumbnail: "/uploads/EDIT_0294-3-1.jpg"
+title: Mont Kōya
 date: 2019-02-06
 categories:
 - photography
-- blue
+- green
+- hiking
+- monk
+- ceremony
 project_bg_color: "#EDEDED"
-project_fg_color: "#36B5EF"
+project_fg_color: "#FFFFFF"
 
 ---
-![](/uploads/cody-davis-253925-unsplash.jpg)
